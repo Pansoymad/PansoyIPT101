@@ -1,0 +1,6 @@
+D:\Sajor\PansoyIPT101Solution\MovieDatabase\bin\Debug\MovieDatabase.dacpac
+D:\Sajor\PansoyIPT101Solution\MovieDatabase\bin\Debug\MovieDatabase.dll
+D:\Sajor\PansoyIPT101Solution\MovieDatabase\bin\Debug\MovieDatabase.pdb
+D:\Sajor\PansoyIPT101Solution\MovieDatabase\obj\Debug\MovieDatabase.sqlproj.AssemblyReference.cache
+D:\Sajor\PansoyIPT101Solution\MovieDatabase\obj\Debug\MovieDatabase.dll
+D:\Sajor\PansoyIPT101Solution\MovieDatabase\obj\Debug\MovieDatabase.pdb
